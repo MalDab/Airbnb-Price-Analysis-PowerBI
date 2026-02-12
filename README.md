@@ -41,5 +41,5 @@ This project provides a comprehensive analysis of Airbnb rental prices in three 
   <img width="673" height="262" alt="image" src="https://github.com/user-attachments/assets/2808d87c-3431-4df1-a53e-7cc7f3d36e40" />
 
 ## How to View the Project
-1. Static Report: You can find the full analysis and visualizations in the attachedfile
-2. Raw Data: The original .pbix file is available in the repository for technical review.
+1. Static Report: You can find the full analysis and visualizations in the attached [Download Full Report (PDF)](Airbnb_Price_Analysis_Dąbek_Małgorzata.pdf) file
+2. Raw Data: The original .pbix file is available in the repository for technical review: [Download Power BI File (PBIX)](Airbnb_Price_Analysis_Dąbek_Małgorzata.pbix)
